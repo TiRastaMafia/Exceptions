@@ -1,4 +1,4 @@
-# Сomputer-networks
+# Exceptions
 
             Урок 1. Обработка ошибок в программировании
             
